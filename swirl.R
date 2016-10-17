@@ -1,3 +1,0 @@
-swirl()
-Jim
-
